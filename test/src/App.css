@@ -1,0 +1,37 @@
+.contain{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.App{
+  margin-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: blanchedalmond;
+}
+.nav{
+  position:fixed;
+  top:0;
+  right: 2%;
+  left: 2%;
+  z-index: 5;
+}
+.contain{
+  padding: 70px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+}
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ padding: 75px;
+}
+.kk,.bb{
+  padding: 25px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 45px;
+}
+
